@@ -1,0 +1,11 @@
+li {
+    list-style-type: none;
+}
+form {
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(2, 2, 2);
+}
