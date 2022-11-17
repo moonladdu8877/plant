@@ -1,0 +1,30 @@
+div {
+    text-align: center;
+    color: aqua;
+}
+
+body {
+    background-color: rgb(32, 31, 31);
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+div {
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+}
+
+.background {
+    background-image: url(https://images.pexels.com/photos/1083822/pexels-photo-1083822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    min-height: 250px;
+    transition: all 0.7s;
+}
+
+.background:hover {
+    font-size: 100px;
+}
+
